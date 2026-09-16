@@ -16,7 +16,7 @@ The t-walk MCMC sampler, available [here](https://www.cimat.mx/~jac/twalk/).
 
 Posterior files from the BaySIC proxy system model, available [here](https://github.com/CrystalCYFu/PyBaySIC).
 
-## Data
+## Data & Usage
 
 All model and proxy data required to reproduce the primary of the study are included in this repository:
 
@@ -29,8 +29,9 @@ The model weighting scheme (`Bayes-paleo-weighting.py`) uses the above data and 
 
 - `MarchSIE_historical_future.xlsx`: historical and future (SSP1, 2 & 5) March SIE time series calculated from SIC output on each model's native grid, for SIE trajectories
 - `MarchSIC_historical_future_climo.nc`: regridded March SIC model output as historical (1990-1999) and SSP1, 2 & 5 (2090-2099) climatologies, for ice cover probability maps
+- `MarchSIC_MH_piControl_climo.nc`: as above but with MH and piControl climatologies instead, for reference
 
-For more details on the data and their sources, as well as the weighting scheme itself, please refer to the publication and the references therein.
+Details on all model output used, including the modelling centre, CMIP/PMIP phase, experiment ID, run ID, simulation years, and number of SIC files, are documented in `SIC_model_data.xlsx`. For more information on the data as well as the weighting scheme itself, please refer to the publication and the references therein.
 
 ## License
 
