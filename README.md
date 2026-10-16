@@ -1,6 +1,6 @@
 # Bayes-paleo-weighting
 
-This repository contains an implementation of the Bayesian framework for weighting climate model ensembles using palaeoclimate proxy data, applied to Arctic sea ice as reported in Fu et al. (in press). When using this framework, please cite:
+This repository contains an implementation of the Bayesian framework for weighting climate model ensembles using palaeoclimate proxy data, applied to Arctic sea ice as reported in Fu et al. (2026). When using this framework, please cite:
 
 Fu, C.Y., Osman, M.B. & Aquino-López, M.A. Palaeoclimate constraints narrow uncertainty in future Arctic winter sea ice projections. _Nat. Geosci._ (2026). https://doi.org/10.1038/s41561-026-02123-w
 
